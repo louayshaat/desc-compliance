@@ -1,7 +1,7 @@
-# quickstart-compliance-nesa
-## Standardized Architecture for NESA on the AWS Cloud
+# quickstart-compliance-desc
+## Standardized Architecture for DESC on the AWS Cloud
 
-This Quick Start sets up an AWS Cloud environment that provides a standardized architecture for NESA compliance. 
+This Quick Start sets up an AWS Cloud environment that provides a standardized architecture for DESC compliance. 
 The templates in the Quick Start automatically configure the AWS resources and deploy a multi-tier, Linux-based web application in a few simple steps. The Quick Start includes a main template for initial setup and three optional templates for additional customization.
 
 **Main template**
